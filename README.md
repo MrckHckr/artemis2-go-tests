@@ -69,5 +69,3 @@ Provide a **complete and professional dashboard** to support **GO / NO-GO decisi
 
 ---
 
-## 📂 File Structure
-
